@@ -1,0 +1,13 @@
+<span id="a">dr@mechanic</span>:<span id="b">~</span><span id="c">$</span> cd Drmechanic/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
+<span id="a">dr@mechanic</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->Drmechanic.txt<br/><br/>
+WELCOME HERE , "<span id="k">Caught you stalking</span>". <!-- sjkfhskjf -->
+
+Hey There! This is my  portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p>I am Rider AKA DRMECHANIC.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p> I am Enthusiastic about Automobiles, please visit my website <a href="https://drmechanic.ml">More info about me</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p>Besides I too have some skills in Programing field too<br><br><br>My github page <a href="https://github.com/PEARLGANG"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p>and I also have some knowledge of python , Bash scripting , HTML, CSS, PHP. </p>
+
+This is my Email id<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --> <a href="drmechanic2708@gmail.com"> Email</a>.
+
+<p>KEK!</p>
